@@ -1,5 +1,6 @@
 import pygame, random, sys,time
 from pygame.locals import *
+
 class Collide1(object):
         def __init__(self):
                pygame.init()
